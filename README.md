@@ -6,7 +6,7 @@
 📍 Based in Tampere/Finland  
 🌐 Open to opportunities in data-related roles. 
 
-🐾 **Fun Fact**: I love animals *a little too much*, one of my dreams is to have a farm where me and my animals can live happily ever after 😊 !  
+🐾 **Fun Fact**: I love animals *a little too much*, one of my dreams is to have a farm where me and my animals can live happily ever after 😊!   
 💬 **Mantra**: *"Learning attracts progress"*
 
 ---

@@ -43,8 +43,8 @@ In the meantime, you can explore my completed Data Science projects already avai
   <a href="https://www.linkedin.com/in/maureen-g-8b77231b9" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img alt="Portfolio" src="https://marbled-saltopus-dd4.notion.site/Data-Engineering-Portfolio-Learning-Journey-224ef958039080e0b15dca56e031eb9f" />
+  <a href="https://marbled-saltopus-dd4.notion.site/Data-Engineering-Portfolio-Learning-Journey-224ef958039080e0b15dca56e031eb9f" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
   </a>
 </p>
 

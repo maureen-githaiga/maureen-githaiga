@@ -1,12 +1,11 @@
 ## Hi there 👋🏾 I'm Maureen (●'◡'●)
 
-🎓 I'm a recent MSc **Data Science graduate** currently building on my data engineering skills.   
+🎓 I'm an MSc **Data Science graduate** currently building on my data engineering skills.   
 🎓 Bachelor of Science in Statistics.  
 💻 Passionate about all things data.
 📍 Based in Tampere/Finland  
 🌐 Open to opportunities in data-related roles (data analyst, scientist, engineer). 
 
-🐾 **Fun Fact**: I love animals *a little too much*, one of my dreams is to have a farm where me and my animals can live happily ever after 😊!   
 💬 **Mantra**: *"Learning attracts progress"*
 
 ---

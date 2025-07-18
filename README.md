@@ -1,6 +1,6 @@
 ## Hi there 👋🏾 I'm Maureen (●'◡'●)
 
-🎓 I'm a recent MSc **Data Science graduate** currently learning and transitioning into **Data Engineering**.   
+🎓 I'm a recent MSc **Data Science graduate** currently building on my data engineering skills.   
 🎓 Bachelor of Science in Statistics.  
 💻 Passionate about data, automation, and building scalable systems.   
 📍 Based in Tampere/Finland  

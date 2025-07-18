@@ -29,7 +29,7 @@
 
 ## 💼 Featured Projects
 🔧 Note: My Data Engineering projects are currently under construction as I continue building my skills and portfolio.  
-In the meantime, you can explore my completed Data Science projects already available on my profile.
+In the meantime, you can explore my other projects on my profile.
 
 
 ---

@@ -27,8 +27,8 @@
 ---
 
 ## 💼 Featured Projects
-🔧 Note: My Data Engineering projects are currently under construction as I continue building my skills and portfolio.  
-In the meantime, you can explore my other projects on my profile.
+[Kenya News End to End data pipeline](https://github.com/maureen-githaiga/kenya-news-data-pipeline)  
+[Emotion-based body odour classification](https://github.com/maureen-githaiga/ml-emotion-odor-classification)
 
 
 ---

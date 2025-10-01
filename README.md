@@ -15,9 +15,8 @@
 - **Data Science:** Scikit Learn, Pytorch 
 - **Data Engineering:** Google Cloud Platform (BigQuery, GCS), DBT, Docker, Terraform, Kestra  
 - **Databases:** PostgreSQL, MySQL  
-- **Tools:** Git, GitHub, Jupyter, VS Code  
-- **Learning:** Spark
-
+- **Tools:** Git, GitHub, Jupyter, VS Code
+  
 ---
 
 ## 📚 Current Focus

@@ -28,7 +28,7 @@
 
 ## 💼 Featured Projects
 [Kenya News Articles Analytics pipeline](https://github.com/maureen-githaiga/kenya-news-data-pipeline) - A data engineering project.  
-[Emotion-based body odour classification](https://github.com/maureen-githaiga/ml-emotion-odor-classification)
+[Emotion-based body odour classification](https://github.com/maureen-githaiga/ml-emotion-odor-classification) - A machine learning project.
 
 
 ---

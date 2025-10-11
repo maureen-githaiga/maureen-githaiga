@@ -20,7 +20,7 @@
 ---
 
 ## 📚 Current Focus
-🚀 I’m currently learning dataengineering through the [DataTalksClub Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) .  
+🚀 I’m currently learning data engineering through the [DataTalksClub Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) .  
 🛠️ Building hands-on projects and documenting my journey in [my data engineering learning repository](https://github.com/maureen-githaiga/data-engineering-zoomcamp-2025).
 
 ---
@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/maureen-g-8b77231b9" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://marbled-saltopus-dd4.notion.site/Data-Engineering-Portfolio-Learning-Journey-224ef958039080e0b15dca56e031eb9f" target="_blank">
+  <a href="datascienceportfol.io/githaigamaureen" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
   </a>
 </p>
